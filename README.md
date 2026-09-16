@@ -17,6 +17,7 @@ Mein Lieblingsfach ist: Sport
 Ich möchte mit GitHub lernen, wie man gemeinsam an Projekten arbeitet.
 
 ## Meine Änderung
-Diese Änderung haben ich in meinem eigenen Branch erstellt.
+Diese Änderung haben ich in meinem eigenen Branch erstellt.  
+Ich teste gerade Branches auf GitHub.
 
 
